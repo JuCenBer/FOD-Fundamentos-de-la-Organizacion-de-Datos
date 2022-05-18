@@ -1,0 +1,60 @@
+* alvaro aberastain
+Nro. Empleado: 13794
+DNI: 4162
+Edad: 46
+ 
+* julian beraun
+Nro. Empleado: 14540
+DNI: 12559
+Edad: 57
+ 
+* paco gerlo
+Nro. Empleado: 11462
+DNI: 1160
+Edad: 34
+ 
+* musa caraballo
+Nro. Empleado: 3727
+DNI: 9440
+Edad: 36
+ 
+* beraun julian
+Nro. Empleado: 621
+DNI: 26156
+Edad: 49
+ 
+* alvaro aberastain
+Nro. Empleado: 11898
+DNI: 2557
+Edad: 19
+ 
+* musa caraballo
+Nro. Empleado: 8837
+DNI: 29831
+Edad: 43
+ 
+* paco gerlo
+Nro. Empleado: 7307
+DNI: 15074
+Edad: 25
+ 
+* uwu uwu
+Nro. Empleado: 1863
+DNI: 6048
+Edad: 69
+ 
+* xd xd
+Nro. Empleado: 9085
+DNI: 20132
+Edad: 44
+ 
+* Laura Di Giusti
+Nro. Empleado: 2870
+DNI: 20437
+Edad: 57
+ 
+* prueba probando
+Nro. Empleado: 12508
+DNI: 0
+Edad: 18
+ 

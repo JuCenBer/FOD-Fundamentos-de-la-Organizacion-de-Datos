@@ -1,0 +1,9 @@
+1 5.2000000000000000E+002 Samsung
+2 14 Un celular coreano
+S7 Edge
+2 5.1000000000000000E+001 xioami
+1 2 un celular chino
+mi 9t
+17 4.4000000000000000E+001 samsung
+1 0 un celular muy coreano
+s10 ultra
